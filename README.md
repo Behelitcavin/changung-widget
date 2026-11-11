@@ -4,7 +4,7 @@
 
 [로봇님 잘그려]로 끝나지 않는, 인간의 창작에 실질적인 도움이 되는 AI와 그들과의 상생을 탐구합니다.
 
-**[공유 페이지 · 다운로드 · 설치 및 사용법](https://changung-widget-20261111.sulino.chatgpt.site/)**
+**[공유 페이지 · 다운로드 · 설치 및 사용법](https://changung-widget-20261111.sulino.chatgpt.site/)** · [패치노트와 이전 버전](CHANGELOG.md)
 
 ![실제 위젯 미리보기. 왼쪽은 랜서, 오른쪽은 아처 / 実際のウィジェット。左にランサー、右にアーチャー](https://github.com/user-attachments/assets/3d7a9fc1-9041-4dec-977e-432083fd36c5)
 
@@ -16,6 +16,6 @@ Codex의 도움을 받아 제작했습니다. 위젯 속 랜서와 아처의 캐
 
 「ロボットさんしゅごい♥」で終わらず、人の創作を実際に支えるAIと、そうしたAIとの共生を探求します。
 
-**[配布ページ・ダウンロード・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja)**
+**[配布ページ・ダウンロード・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja)** · [更新履歴と以前のバージョン](CHANGELOG.md)
 
 Codexの支援を受けて制作しました。ウィジェット内のランサーとアーチャーのキャラクター解釈、セリフ、二人の関係性の描写は、**behelitの同人作品**に基づいています。
