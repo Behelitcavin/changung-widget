@@ -2,7 +2,7 @@
 
 ## 1.4.0 · 2026-11-13
 
-[1.4.0 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases) · [설치·사용법 / 使い方 / Guide](https://changung-widget-20261111.sulino.chatgpt.site/)
+[1.4.0 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.4.0) · [설치·사용법 / 使い方 / Guide](https://changung-widget-20261111.sulino.chatgpt.site/)
 
 ### 한국어
 
@@ -19,7 +19,7 @@
 
 작업 기록과 대화 기억은 PC에 저장되며, 대사는 외부 AI 호출 없이 선택됩니다. 이전 버전을 종료하고 새 ZIP을 풀어 실행하면 기존 기록을 이어 쓸 수 있습니다.
 
-이번 버전은 GitHub 릴리즈에서 받으세요. 기존 배포 페이지와 자동 업데이트 알림의 갱신은 지연 중입니다.
+배포 사이트와 GitHub에서 1.4.0을 받을 수 있습니다. 앱의 새 버전 알림도 1.4.0으로 갱신했습니다.
 
 ### 日本語
 
@@ -36,7 +36,7 @@
 
 作業記録と会話の記憶はPCに保存し、セリフは外部AIを呼び出さずに選びます。旧バージョンを終了し、新しいZIPを展開して実行すると、記録を引き継いで使えます。
 
-今回はGitHubのリリースからダウンロードしてください。従来の配布ページと自動更新通知の反映は遅れています。
+配布サイトとGitHubから1.4.0をダウンロードできます。アプリの新バージョン通知も1.4.0に更新しました。
 
 ### English
 
@@ -53,7 +53,7 @@
 
 Work records and conversation memory stay on your PC. Dialogue is selected without external AI calls. Quit the older version, extract the new ZIP and run it to continue with your existing records.
 
-Please download this version from GitHub Releases. Updates to the original download page and automatic update notifications are delayed.
+Version 1.4.0 is available from the download site and GitHub. The app's update feed now points to 1.4.0.
 
 Made with help from Codex. Character interpretations and dialogue are based on behelit's fan works.
 
