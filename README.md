@@ -1,12 +1,12 @@
 # 창궁 데스크톱 위젯 / 槍弓デスクトップウィジェット / YARIYUMI Desktop Widget
 
-**[1.4.0 ZIP 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.4.0)**
+**[1.4.1 ZIP 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.4.1)**
 
-배포 사이트와 GitHub에서 1.4.0을 받을 수 있습니다. 앱의 새 버전 알림도 1.4.0으로 갱신했습니다.
+배포 사이트와 GitHub에서 1.4.1을 받을 수 있습니다. 앱의 새 버전 알림도 1.4.1으로 갱신했습니다.
 
-配布サイトとGitHubから1.4.0をダウンロードできます。アプリの新バージョン通知も1.4.0に更新しました。
+配布サイトとGitHubから1.4.1をダウンロードできます。アプリの新バージョン通知も1.4.1に更新しました。
 
-Version 1.4.0 is available from the download site and GitHub. The app's update feed now points to 1.4.0.
+Version 1.4.1 is available from the download site and GitHub. The app's update feed now points to 1.4.1.
 
 **[인간의 땀방울의 값어치를 깎아먹는 것이 아닌, 인간의 땀방울이 더욱 빛나게 하는 AI를 위해]**
 
@@ -14,7 +14,7 @@ Version 1.4.0 is available from the download site and GitHub. The app's update f
 
 [로봇님 잘그려]로 끝나지 않는, 인간의 창작에 실질적인 도움이 되는 AI와 그들과의 상생을 탐구합니다.
 
-**[공유 페이지 · 설치 및 사용법](https://changung-widget-20261111.sulino.chatgpt.site/)** · **[1.4.0 패치노트와 이전 버전](CHANGELOG.md)**
+**[공유 페이지 · 설치 및 사용법](https://changung-widget-20261111.sulino.chatgpt.site/)** · **[1.4.1 패치노트와 이전 버전](CHANGELOG.md)**
 
 ![실제 위젯 미리보기. 왼쪽은 랜서, 오른쪽은 아쳐 / 左にランサー、右にアーチャー / Lancer on the left, Archer on the right](https://github.com/user-attachments/assets/3d7a9fc1-9041-4dec-977e-432083fd36c5)
 
@@ -36,7 +36,7 @@ Codex의 도움을 받아 제작했습니다. 위젯 속 캐릭터 해석과 대
 
 「ロボットさんしゅごい♥」で終わらず、人の創作を実際に支えるAIと、そうしたAIとの共生を探求します。
 
-**[配布ページ・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja)** · **[1.4.0の更新履歴と以前のバージョン](CHANGELOG.md)**
+**[配布ページ・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja)** · **[1.4.1の更新履歴と以前のバージョン](CHANGELOG.md)**
 
 今日の作業カード、日々の作業量、集中タイマー、記録に応じた会話、小物とSDの一枚絵イベント、ルーンの助言、参考資料の本棚に対応しています。日本語・韓国語・英語を切り替えられます。記録はPCに保存され、会話は用意した台詞から選ばれます。外部AIへの問い合わせはありません。
 
@@ -50,7 +50,7 @@ YARIYUMI is a fan-made Windows desktop companion featuring Lancer and Archer. Ke
 
 We explore AI that offers practical support for human creativity, and ways to work alongside it beyond simply asking a robot to draw for us.
 
-**[Download site and installation guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)** · **[1.4.0 changelog and older versions](CHANGELOG.md)**
+**[Download site and installation guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)** · **[1.4.1 changelog and older versions](CHANGELOG.md)**
 
 Includes recurring project presets, daily progress logs, contextual dialogue, props, static SD cutscenes, rune advice and a reference shelf. Korean, Japanese and English are supported. Records stay on your PC, and dialogue uses locally selected authored lines without external AI calls.
 
