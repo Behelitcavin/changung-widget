@@ -1,5 +1,31 @@
 # 패치노트 / 更新履歴 / Release Notes
 
+## 1.4.1 · 2026-11-14
+
+[1.4.1 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.4.1)
+
+### 한국어
+
+- 룬 점의 질문 주제별 행동 조언과 카드의 마지막 문구를 늘리고, 바로 해볼 수 있는 내용으로 다듬었습니다. 다른 룬·새 질문에서도 최근 표현을 피하며 재실행 뒤에도 기억합니다.
+- 아쳐의 흰 터틀넥에 남던 갑옷 무늬와 빨간 소매를 수정했습니다. 머리 에셋이 의상까지 덮던 합성 문제를 고치고 전체 의상의 동작 프레임을 점검했습니다.
+- 같은 질문의 첫 룬, 메모·작업 기록·포인트·친밀도·해금 기록을 이어 씁니다. 이전 버전을 종료한 뒤 새 ZIP을 풀어 실행하세요.
+
+### 日本語
+
+- 質問のテーマに合わせた具体的な助言と、ルーンカードの締めのセリフを増やしました。別のルーンや新しい質問でも最近の表現を避け、再起動後も覚えています。
+- アーチャーの白いタートルネックに残っていた鎧の模様と赤い袖を修正。髪型の変更で衣装まで上書きされる問題を直し、全衣装の動作フレームを点検しました。
+- 同じ質問の最初のルーン、メモ・作業記録・ポイント・親密度・解放状況は引き継げます。旧版を終了し、新しいZIPを展開して実行してください。
+
+### English
+
+- Added practical topic-specific advice and more closing lines for rune cards. Recent wording is avoided across runes and new questions, with history preserved after restart.
+- Fixed leftover armor patterns and red sleeves on Archer's white turtleneck, and hair overlays affecting outfit pixels. Checked animation frames across all outfits.
+- Your first rune for each question, notes, work records, points, affinity and unlocks carry over. Quit the old version, extract the new ZIP and run it.
+
+[설치·사용법 / 使い方 / Guide](https://changung-widget-20261111.sulino.chatgpt.site/)
+
+Made with help from Codex. Character interpretations and dialogue are based on behelit's fan works.
+
 ## 1.4.0 · 2026-11-13
 
 [1.4.0 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.4.0) · [설치·사용법 / 使い方 / Guide](https://changung-widget-20261111.sulino.chatgpt.site/)
