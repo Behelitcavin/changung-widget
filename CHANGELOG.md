@@ -1,5 +1,37 @@
 # 패치노트 / 更新履歴 / Release Notes
 
+## 1.5.0 · 2026-11-15
+
+[1.5.0 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.0)
+
+### 한국어
+
+- **조금 함**: 오늘 진행한 작업을 완료와 따로 표시합니다. 정확한 분량 기록은 유지하고 포인트를 중복 지급하지 않습니다.
+- **창작 일지·최근 7일**: 날짜별로 오늘 한 일, 막힌 부분·발견, 다음에 이어 할 일을 남기고 완료·분량·집중 기록을 함께 돌아봅니다.
+- **버튼으로 업데이트**: 1.5.0부터 업데이트 버튼으로 이후 버전을 다운로드·확인·교체하고 다시 실행합니다. 메모·포인트·설정은 유지되며 교체 실패 시 이전 실행 파일을 복원합니다.
+- **처음 한 번**: 1.4.1 이하에서는 이전 앱을 종료하고 이 ZIP을 풀어 실행 파일을 수동 교체해 주세요. 그다음 업데이트부터 버튼 설치를 사용할 수 있습니다.
+- 위젯과 창궁서고는 각각 독립형이며 자료도 따로 저장합니다.
+
+### 日本語
+
+- **少し進めた**：今日の進捗を完了と分けて記録します。正確な作業量はそのまま管理でき、ポイントの重複獲得はありません。
+- **創作日誌・最近7日間**：今日やったこと、つまずいたこと・気づき、次にやることを日付ごとに残し、完了・作業量・集中記録を振り返れます。
+- **ボタンで更新**：1.5.0から、今後のバージョンをダウンロード・検証・入れ替え・再起動できます。メモ・ポイント・設定を引き継ぎ、入れ替えに失敗した場合は以前の実行ファイルに戻します。
+- **初回のみ**：1.4.1以前では旧版を終了し、このZIPを展開して実行ファイルを手動で入れ替えてください。次の更新からボタンでのインストールを利用できます。
+- ウィジェットと創作資料アプリは、それぞれ独立して動作・保存します。
+
+### English
+
+- **Partly done**: Mark today's progress separately from completion. Exact amounts remain available, with no duplicate point rewards.
+- **Creative journal and last seven days**: Record what you did, obstacles or discoveries, and your next step by date. Review completed tasks, logged amounts and focus time.
+- **Button-based updates**: From 1.5.0, download, verify, replace and restart future versions from the widget. Notes, points and settings stay in place; replacement failures restore the previous executable.
+- **One manual upgrade**: If you use 1.4.1 or earlier, quit it, extract this ZIP and replace the executable once. Future updates can then be installed with the button.
+- The widget and creative archive remain independent apps with separate records.
+
+[설치·사용법 / 使い方 / Guide](https://changung-widget-20261111.sulino.chatgpt.site/)
+
+Made with help from Codex. Character interpretations and dialogue are based on behelit's fan works.
+
 ## 1.4.1 · 2026-11-14
 
 [1.4.1 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.4.1)
