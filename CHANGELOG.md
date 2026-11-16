@@ -1,5 +1,56 @@
 # 패치노트 / 更新履歴 / Release Notes
 
+## 1.5.1 · 2026-11-16
+
+[1.5.1 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.1)
+
+[다운로드·사용법](https://changung-widget-20261111.sulino.chatgpt.site/) · [ダウンロード・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja) · [Download & guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)
+
+### 한국어
+
+**인간의 땀방울의 값어치를 깎아먹는 것이 아닌, 인간의 땀방울이 더욱 빛나게 하는 AI를 위해.**
+
+- **기억 강화:** 최근 일반 대사 5개와 대사 선호를 로컬에 저장하여 재실행 뒤에도 반복을 줄입니다. 최근 대사 회피는 7일 뒤 풀리고 선호는 시간이 지나면 서서히 중립으로 돌아갑니다.
+- **이어하기 카드:** 오늘 작업에서 최근 일지의 다음 할 일 또는 최근 집중 후 선택한 미완료 작업을 확인하고, 이어 하기·다른 작업·지금은 쉴래를 고릅니다. 출처 날짜와 일지 원문을 볼 수 있으며, 휴식 선택은 포인트와 친밀도를 바꾸지 않습니다.
+- **대사 뒤 여운:** 일반·소품 대화가 끝난 뒤 표정과 소품이 약 2.4초 남습니다. 새 클릭, 알림, 집중 시작에는 바로 전환됩니다.
+- **빠른 작업과 선택형 단축키:** 오늘 할 작업·빠른 메모·복사한 자료 저장·집중 시작을 한 창에서 고릅니다. 전역 단축키는 기본 OFF이며 원하는 조합 하나만 지정할 수 있습니다. 등록된 전역 단축키 충돌을 확인하고 적용 실패 시 기존 설정을 유지합니다.
+
+1.5.0에서는 **업데이트 → 지금 업데이트**로 설치할 수 있습니다. 1.4.1 이하에서는 기존 앱을 종료하고 ZIP을 풀어 실행 파일을 수동 교체해 주세요. 기록은 기존 PC 저장 폴더에서 이어집니다.
+
+### 日本語
+
+**人の汗の価値を削るのではなく、その汗をもっと輝かせるAIを目指して。**
+
+- **会話の記憶:** 最近の通常会話5件と会話の好みをPC内に保存し、再起動後も繰り返しを抑えます。直近の会話を避ける期間は7日間で、好みの偏りは時間とともに少しずつ中立へ戻ります。
+- **続きから始めるカード:** 今日の作業で、最近の日誌に残した次の作業、または前回の集中後に選んだ未完了の作業を確認できます。続きから始める・別の作業・今は休むを選べ、日付と元の日誌も開けます。休憩を選んでもポイントや親密度は変わりません。
+- **会話の余韻:** 通常会話や小物の会話が終わると、表情や小物が約2.4秒だけ残ります。新しいクリック・通知・集中開始にはすぐ切り替わります。
+- **クイック操作と任意のショートカット:** 今日の作業・メモ・コピーした資料の保存・集中開始をまとめました。グローバルショートカットは初期設定でオフ。任意の組み合わせを1つだけ登録でき、登録済みキーとの競合や保存失敗時は以前の設定を維持します。
+
+1.5.0からは **アップデート → 今すぐ更新** でインストールできます。1.4.1以前では、旧版を終了してZIPを展開し、実行ファイルを手動で入れ替えてください。保存済みの記録は引き継がれます。
+
+### English
+
+**For AI that helps human effort shine brighter.**
+
+- **Persistent dialogue memory:** The five most recent regular conversations and learned dialogue preferences now survive restarts. Recent-scene avoidance expires after seven days; preferences gradually return toward neutral over time.
+- **Resume card:** Today's work shows the next step from a recent journal entry, or an unfinished task selected after a recent focus session. Choose Resume, Another task, or Rest for now. Check the source date and open the original journal. Rest does not change points or familiarity.
+- **A moment after dialogue:** Expressions and props remain for about 2.4 seconds after regular or prop conversations. New clicks, reminders, and focus sessions take priority immediately.
+- **Quick actions and an optional shortcut:** Open today's tasks, a quick note, copied-material saving, or focus from one small window. The single customizable global shortcut is OFF by default. Registered shortcut conflicts and failed saves preserve the previous setting.
+
+From 1.5.0, choose **Updates → Update now**. For versions 1.4.1 and earlier, quit the old app, extract the ZIP, and replace the executable manually. Existing records remain in the same local data folder.
+
+---
+
+Windows 10/11 · 한국어 / 日本語 / English
+
+로컬 대사·작업 기록을 사용하며 실행 중 외부 AI를 호출하지 않습니다. / 台詞と作業記録はPC内で処理し、起動中に外部AIを呼び出しません。 / Dialogue and work records are handled locally without runtime AI calls.
+
+Codex의 도움을 받아 제작했습니다. 캐릭터 해석·대사·관계 묘사는 **behelit의 동인작품**을 바탕으로 했습니다.
+
+Codexの支援を受けて制作しました。キャラクター解釈・台詞・関係性の描写は **behelitの同人作品** に基づいています。
+
+Made with help from Codex. Character interpretations, dialogue, and relationship portrayals are based on **behelit's fan works**.
+
 ## 1.5.0 · 2026-11-15
 
 [1.5.0 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.0)
@@ -194,4 +245,5 @@ Made with help from Codex. Character interpretations and dialogue are based on b
 
 - 의상 상점, 메모·할 일 알림, 가위바위보가 포함된 Windows 버전.
 - 衣装ショップ、メモ・やることの通知、じゃんけんを収録したWindows版。
+
 
