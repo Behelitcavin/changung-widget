@@ -1,5 +1,58 @@
 # 패치노트 / 更新履歴 / Release Notes
 
+## 1.5.2 · 2026-11-16
+
+[1.5.2 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.2)
+
+[다운로드·사용법](https://changung-widget-20261111.sulino.chatgpt.site/) · [ダウンロード・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja) · [Download & guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)
+
+### 한국어
+
+이미지·PDF·HTML을 레퍼런스 서가에 넣고 원고·작업에 연결할 수 있게 했어요.
+
+- 이미지 축소 미리보기, HTML 본문 읽기, PDF 원본 열기와 원본 내보내기를 추가했어요.
+- 제목·원래 파일명·HTML 본문·태그·메모로 검색해요. 같은 파일을 다시 가져와도 기존 분류·메모·작업 연결을 유지해요.
+- PNG·JPG/JPEG·GIF·WebP·PDF·UTF-8 HTML을 파일당 20 MiB, 한 번에 20개까지 보관해요. GIF는 정지 미리보기이며 WebP 미리보기는 PC의 이미지 지원 상태에 따라 달라요.
+- 자료는 PC 안에 보관해요. 백업하거나 옮길 때는 `references.xml`과 `reference-files` 폴더를 함께 복사하고, 연결한 작업도 옮기려면 `widget.xml`을 포함해 주세요.
+
+1.5.0 이상은 **업데이트 → 지금 업데이트**로 설치할 수 있어요. 수동 설치는 기존 앱을 종료하고 ZIP을 모두 풀어 실행해 주세요. 메모·포인트·설정은 이어서 사용해요. 위젯과 [웹 창궁서고](https://changung-archive.vercel.app/)는 각각 독립형입니다.
+
+기존 기능과 새 파일 보관·화면 검사 **336개를 통과**했어요.
+
+### 日本語
+
+画像・PDF・HTMLを参考資料棚に保存し、原稿や作業と関連付けられるようになりました。
+
+- 画像の縮小プレビュー、HTML本文の表示、PDFの元ファイルを開く機能、元ファイルの書き出しを追加しました。
+- タイトル・元のファイル名・HTML本文・タグ・メモから検索できます。同じファイルを再び読み込んでも、分類・メモ・作業との関連付けは保たれます。
+- PNG・JPG/JPEG・GIF・WebP・PDF・UTF-8のHTMLに対応。1ファイル20 MiB、一度に20ファイルまで保存できます。GIFは静止画プレビューで、WebPのプレビューはPCの画像対応状況によって異なります。
+- 資料はPC内に保存します。バックアップや移動では`references.xml`と`reference-files`フォルダーを一緒にコピーし、関連付けた作業も移す場合は`widget.xml`を含めてください。
+
+1.5.0以降は**アップデート → 今すぐ更新**からインストールできます。手動の場合は旧版を終了し、ZIPをすべて展開して起動してください。メモ・ポイント・設定は引き継がれます。ウィジェットと[Web版の槍弓書庫](https://changung-archive.vercel.app/)は、それぞれ独立したアプリです。
+
+既存機能と新しいファイル保存・画面の検査、**計336項目を通過**しました。
+
+### English
+
+Save images, PDF and HTML files in Reference shelf and link them to your manuscripts or work.
+
+- Added reduced image previews, HTML text reading, explicit PDF opening, and original-file export.
+- Search titles, original filenames, HTML text, tags and notes. Importing the same file again preserves its organization, notes and work links.
+- Supports PNG, JPG/JPEG, GIF, WebP, PDF and UTF-8 HTML: up to 20 MiB per file and 20 files per import. GIF previews are still images; WebP previews depend on Windows image support.
+- Files stay on your PC. Back up or move `references.xml` and the `reference-files` folder together. Include `widget.xml` to preserve the linked tasks as well.
+
+From 1.5.0 onward, choose **Updates → Update now**. For a manual update, quit the old app, extract the entire ZIP and launch it. Notes, points and settings carry over. The widget and the [web archive](https://changung-archive.vercel.app/) remain independent apps.
+
+**336 checks passed**, covering existing features and the new file storage and UI.
+
+---
+
+Codex의 도움을 받아 제작했으며, 캐릭터 해석·대사·관계 묘사는 behelit의 동인작품을 바탕으로 했습니다.
+
+Codexの支援を受けて制作しました。キャラクター解釈・台詞・二人の関係性はbehelitの同人作品に基づいています。
+
+Made with help from Codex. Character interpretations, dialogue and the relationship portrayal are based on behelit's fan works.
+
 ## 1.5.1 · 2026-11-16
 
 [1.5.1 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.1)
