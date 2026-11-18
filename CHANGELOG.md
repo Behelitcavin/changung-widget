@@ -1,5 +1,38 @@
 # 패치노트 / 更新履歴 / Release Notes
 
+## 1.5.3 · 2026-11-18
+
+[1.5.3 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.3)
+
+[다운로드·사용법](https://changung-widget-20261111.sulino.chatgpt.site/) · [ダウンロード・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja) · [Download & guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)
+
+### 한국어
+
+위젯에서 두 웹게임으로 바로 갈 수 있게 했어요.
+
+- 우클릭 메뉴에 **세타메이커 · 웹게임**과 **창궁 · Fate/Lost Log**을 추가했어요. 선택하면 브라우저에서 해당 게임이 열려요.
+- 소개 페이지의 위·아래 메뉴에도 [세타메이커](https://setamaker.netlify.app/)와 [창궁 게임](https://lancerarcher.vercel.app/) 링크를 추가했어요.
+
+1.5.0 이상은 **업데이트 → 지금 업데이트**로 설치할 수 있어요. 수동 설치는 기존 앱을 종료하고 ZIP을 모두 풀어 실행해 주세요. 메모·포인트·설정은 이어서 사용해요.
+
+### 日本語
+
+ウィジェットから2つのWebゲームを開けるようになりました。
+
+- 右クリックメニューに**セタメーカー · Webゲーム**と**槍弓 · Fate/Lost Log**を追加しました。選ぶとブラウザーでゲームが開きます。
+- 配布ページの上部・下部メニューにも、[セタメーカー](https://setamaker.netlify.app/)と[槍弓ゲーム](https://lancerarcher.vercel.app/)へのリンクを追加しました。
+
+1.5.0以降は**アップデート → 今すぐ更新**からインストールできます。手動の場合は旧版を終了し、ZIPをすべて展開して起動してください。メモ・ポイント・設定は引き継がれます。
+
+### English
+
+Open two web games directly from the widget.
+
+- Added **Seta Maker · Web game** and **YARIYUMI · Fate/Lost Log** to the right-click menu. Selecting either opens the game in your browser.
+- The download page’s top and bottom menus now link to [Seta Maker](https://setamaker.netlify.app/) and the [YARIYUMI game](https://lancerarcher.vercel.app/).
+
+From 1.5.0 onward, choose **Updates → Update now**. For a manual update, quit the old app, extract the entire ZIP and launch it. Notes, points and settings carry over.
+
 ## 1.5.2 · 2026-11-16
 
 [1.5.2 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.2)
@@ -298,5 +331,6 @@ Made with help from Codex. Character interpretations and dialogue are based on b
 
 - 의상 상점, 메모·할 일 알림, 가위바위보가 포함된 Windows 버전.
 - 衣装ショップ、メモ・やることの通知、じゃんけんを収録したWindows版。
+
 
 
