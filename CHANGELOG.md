@@ -1,5 +1,52 @@
 # 패치노트 / 更新履歴 / Release Notes
 
+## 1.5.4 · 2026-11-20
+
+[1.5.4 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.4)
+
+### 한국어
+
+대사의 양보다 두 사람의 말투와 관계가 자연스럽게 이어지는 데 초점을 맞춘 업데이트예요.
+
+- **캐릭터 대사 교정:** 일상·작업·터치·소품·룬 조언을 검토했어요. 아쳐는 단정적인 반말과 건조한 반문을, 랜서는 관록 있는 구어와 넉살을 살렸어요. 친밀도가 높아져도 두 사람의 말투가 서로 닮아가지 않도록 다듬었어요.
+- **짧은 대화 3개:** 잔 자국을 닦는 일, 종이와 문진, 조용히 함께 앉아 있는 저녁의 대화를 추가했어요. 시간대와 친밀도에 맞춰 기존 대화 사이에 등장해요.
+- **한·일·영 표현 정리:** 호칭과 어조, 문장의 뜻을 맞췄어요. 한국어 아쳐 표기도 통일했어요.
+- **아쳐 머리·얼굴 표시 수정:** 올린 머리로 고개를 돌릴 때 얼굴과 안경이 어긋나 보이던 부분을 고쳤어요.
+
+1.5.0 이상은 **업데이트 → 지금 업데이트**로 설치할 수 있어요. 수동으로 업데이트하려면 기존 앱을 종료하고 새 ZIP을 모두 풀어 실행해 주세요. 기존 메모·작업·포인트·친밀도·해금 의상·레퍼런스 자료는 이어서 사용해요.
+
+### 日本語
+
+セリフの数を増やすことより、二人の話し方と関係性を大切にした更新です。
+
+- **キャラクターのセリフを調整：** 日常・作業・タッチ反応・小物・ルーンの助言を見直しました。アーチャーの落ち着いた言い切りや皮肉、ランサーの飄々とした口調と貫禄を保ち、親密になっても二人の話し方が似通わないよう整えています。
+- **短い会話を3つ追加：** 湯呑みの跡を拭く話、紙と文鎮の話、静かに隣に座る夜の話を追加しました。時間帯や親密度に応じて、普段の会話の中に登場します。
+- **韓・日・英の表現を整理：** 呼び方、口調、文意をそろえました。韓国語でのアーチャーの表記も統一しました。
+- **アーチャーの髪型・顔の表示を修正：** 髪を上げた状態で顔を横に向ける際、顔や眼鏡がずれて見える箇所を直しました。
+
+1.5.0以降は**アップデート → 今すぐ更新**からインストールできます。手動の場合は旧版を終了し、新しいZIPをすべて展開して起動してください。メモ・作業・ポイント・親密度・解放済み衣装・参考資料は引き継がれます。
+
+### English
+
+This update focuses on keeping the pair's voices and relationship consistent, rather than adding more lines for their own sake.
+
+- **Character dialogue revised:** Reviewed everyday conversations, work responses, touch reactions, props and rune advice. Archer keeps his measured statements and dry retorts; Lancer retains his seasoned, easy manner. Growing familiarity does not blur their distinct voices.
+- **Three short conversations:** Added exchanges about wiping up a cup ring, papers and a paperweight, and a quiet evening together. They appear among regular conversations according to time and familiarity.
+- **Korean, Japanese and English wording:** Aligned forms of address, tone and meaning, and standardized Archer's Korean name spelling.
+- **Archer's hair and face alignment:** Fixed face and glasses misalignment when Archer turns his head with his hair swept up.
+
+From 1.5.0 onward, choose **Updates → Update now**. For a manual update, quit the old app, extract the entire new ZIP and launch it. Existing notes, work records, points, familiarity, unlocked outfits and reference materials carry over.
+
+---
+
+[다운로드·사용법](https://changung-widget-20261111.sulino.chatgpt.site/) · [ダウンロード・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja) · [Download & guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)
+
+Codex의 도움을 받아 제작했으며, 캐릭터 해석·대사·관계 묘사는 behelit의 동인작품을 바탕으로 했습니다.
+
+Codexの支援を受けて制作しました。キャラクター解釈・台詞・二人の関係性はbehelitの同人作品に基づいています。
+
+Made with help from Codex. Character interpretations, dialogue and relationship portrayals are based on behelit's fan works.
+
 ## 1.5.3 · 2026-11-18
 
 [1.5.3 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.3)

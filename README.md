@@ -1,12 +1,12 @@
 # 창궁 데스크톱 위젯 / 槍弓デスクトップウィジェット / YARIYUMI Desktop Widget
 
-**[1.5.3 ZIP 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.3)**
+**[1.5.4 ZIP 다운로드 / ダウンロード / Download](https://github.com/Behelitcavin/changung-widget/releases/tag/v1.5.4)**
 
-배포 사이트와 GitHub에서 1.5.3를 받을 수 있습니다. 앱의 새 버전 알림도 1.5.3로 갱신했습니다.
+배포 사이트와 GitHub에서 1.5.4를 받을 수 있습니다. 앱의 새 버전 알림도 1.5.4로 갱신했습니다.
 
-配布サイトとGitHubから1.5.3をダウンロードできます。アプリの新バージョン通知も1.5.3に更新しました。
+配布サイトとGitHubから1.5.4をダウンロードできます。アプリの新バージョン通知も1.5.4に更新しました。
 
-Version 1.5.3 is available from the download site and GitHub. The app's update feed now points to 1.5.3.
+Version 1.5.4 is available from the download site and GitHub. The app's update feed now points to 1.5.4.
 
 **[인간의 땀방울의 값어치를 깎아먹는 것이 아닌, 인간의 땀방울이 더욱 빛나게 하는 AI를 위해]**
 
@@ -14,9 +14,11 @@ Version 1.5.3 is available from the download site and GitHub. The app's update f
 
 [로봇님 잘그려]로 끝나지 않는, 인간의 창작에 실질적인 도움이 되는 AI와 그들과의 상생을 탐구합니다.
 
-**[공유 페이지 · 설치 및 사용법](https://changung-widget-20261111.sulino.chatgpt.site/)** · **[1.5.3 패치노트와 이전 버전](CHANGELOG.md)**
+**[공유 페이지 · 설치 및 사용법](https://changung-widget-20261111.sulino.chatgpt.site/)** · **[1.5.4 패치노트와 이전 버전](CHANGELOG.md)**
 
 ![실제 위젯 미리보기. 왼쪽은 랜서, 오른쪽은 아쳐 / 左にランサー、右にアーチャー / Lancer on the left, Archer on the right](https://github.com/user-attachments/assets/3d7a9fc1-9041-4dec-977e-432083fd36c5)
+
+1.5.4에서는 대사의 양보다 캐릭터 해석을 우선해 일상·작업·터치·소품·룬 조언을 다듬었습니다. 아쳐의 단정적인 반말과 건조한 반문, 랜서의 관록 있는 구어를 살리고 한·일·영 표현을 맞췄습니다. 짧은 일상 대화 3개를 추가했으며, 올린 머리의 아쳐가 고개를 돌릴 때 얼굴·안경이 어긋나던 부분을 수정했습니다.
 
 1.5.3에서는 위젯 우클릭 메뉴에서 [세타메이커](https://setamaker.netlify.app/)와 [창궁 · Fate/Lost Log](https://lancerarcher.vercel.app/)를 바로 열 수 있습니다. 소개 페이지의 위·아래 메뉴에도 두 게임의 링크를 추가했습니다.
 
@@ -43,7 +45,9 @@ Codex의 도움을 받아 제작했습니다. 위젯 속 캐릭터 해석과 대
 
 「ロボットさんしゅごい♥」で終わらず、人の創作を実際に支えるAIと、そうしたAIとの共生を探求します。
 
-**[配布ページ・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja)** · **[1.5.3の更新履歴と以前のバージョン](CHANGELOG.md)**
+**[配布ページ・使い方](https://changung-widget-20261111.sulino.chatgpt.site/?lang=ja)** · **[1.5.4の更新履歴と以前のバージョン](CHANGELOG.md)**
+
+1.5.4ではセリフの数よりキャラクター解釈を優先し、日常・作業・タッチ反応・小物・ルーンの助言を見直しました。アーチャーの落ち着いた言い切りと皮肉、ランサーの飄々とした口調と貫禄を保ち、韓・日・英の表現を整えています。短い日常会話を3つ追加し、髪を上げたアーチャーが横を向く際の顔・眼鏡のずれも修正しました。
 
 1.5.3ではウィジェットの右クリックメニューから、[セタメーカー](https://setamaker.netlify.app/)と[槍弓 · Fate/Lost Log](https://lancerarcher.vercel.app/)を開けるようになりました。配布ページの上部・下部メニューにも両ゲームへのリンクを追加しました。
 
@@ -63,7 +67,9 @@ YARIYUMI is a fan-made Windows desktop companion featuring Lancer and Archer. Ke
 
 We explore AI that offers practical support for human creativity, and ways to work alongside it beyond simply asking a robot to draw for us.
 
-**[Download site and installation guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)** · **[1.5.3 changelog and older versions](CHANGELOG.md)**
+**[Download site and installation guide](https://changung-widget-20261111.sulino.chatgpt.site/?lang=en)** · **[1.5.4 changelog and older versions](CHANGELOG.md)**
+
+Version 1.5.4 focuses on character fidelity across everyday, work, touch, prop and rune dialogue. Archer keeps his measured statements and dry retorts, while Lancer retains his seasoned, easy manner. Korean, Japanese and English wording has been aligned. Three short conversations were added, and Archer's face and glasses now stay aligned when he turns his head with his hair swept up.
 
 Version 1.5.3 adds right-click shortcuts to [Seta Maker](https://setamaker.netlify.app/) and [YARIYUMI · Fate/Lost Log](https://lancerarcher.vercel.app/). Both games are also linked in the download page’s top and bottom menus.
 
